@@ -82,7 +82,8 @@ form button {
 }
 
 #monkey {
-    padding: 10px 20px;
+    padding-left: 50%;
+    padding-right: 50%;
     font-size: 18px;
     background-color: gray;
     color: black;
