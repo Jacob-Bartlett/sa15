@@ -72,3 +72,12 @@ form button {
     color: black;
     cursor: pointer;
 }
+
+#monkey {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: gray;
+    color: black;
+    cursor: pointer;
+    align-self: center;
+}
